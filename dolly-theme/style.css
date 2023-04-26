@@ -1,0 +1,90 @@
+/*
+Theme Name: Dolly Theme
+Author: NAHID
+Author URI: http://google.com
+Version: 1.0.0
+Description: dfgdg l;kjkfds adfjoif adfjiadkfo  asdfjiof ofdijodf
+Tags::after, before, array, 
+Text Domain: nahid
+*/
+
+h1.heading {
+    font-family: "Arial Black";
+    width: 700px;
+    margin: auto;
+    margin-bottom: 70px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+}
+
+h3.tagline{
+    font-family: Arial;
+    margin:auto;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    width: 700px;
+    text-align: center;
+}
+
+h2.post-title {
+    margin-bottom: 30px;
+}
+
+.post {
+    margin-bottom: 50px;
+}
+
+.post p{
+    font-family: "Helvetica Neue";
+    line-height: 1.7em;
+    font-size: 18px;
+}
+
+.post .row:nth-child(2) {
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+
+}
+
+.post:last-child .row:nth-child(2){
+    border-bottom:none;
+}
+
+.footer{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #222;
+    color:#ccc;
+}
+
+.tags li{
+    color: #3D9970;
+}
+
+.post-pagination{
+    margin-bottom: 50px;
+    
+}
+
+.list-item-title{
+    
+    background-color: red;
+    display: inline-block;
+      
+}
+
+.header-logo{
+    margin-top: 10px;
+}
+
+.header-logo img{
+    border-radius: 30px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    position: relative;
+    right: 150px;
+}
